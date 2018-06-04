@@ -125,3 +125,7 @@ GEOJSON, KML, CSV, DBF, and Shapefile converstion tool
 ### [kepler.gl](https://uber.github.io/kepler.gl/)
 
 Uber’s Open Source Geospatial Toolbox
+
+### [GeoJSONLint](http://geojsonlint.com/)
+
+Online Geojson reader
