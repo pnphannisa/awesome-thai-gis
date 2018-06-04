@@ -70,6 +70,14 @@ Layer(s): flood area (kml, shp)
 
 Last update: 2017
 
+### [Bangkok City Bus Guide (แผนที่รถเมล์ไทย)](https://bazztsu.blogspot.com/p/blog-page.html)
+
+Area: Bangkok
+
+Layers: Bangkok bus routes, in Google Mymaps format, convertable to .kml from Export Options
+
+Last update: 2018
+
 ### [Bangkok GIS](http://www.bangkokgis.com/modules.php?m=download_shapefile)
 
 Area: Bangkok
