@@ -117,3 +117,11 @@ Global – GEOJSON query tool
 ### [mapshaper](http://mapshaper.org/)
 
 GEOJSON, KML, CSV, DBF, and Shapefile converstion tool
+
+### [MyGeodata Cloud](https://mygeodata.cloud/)
+
+GEOJSON, KML, CSV, DBF, and Shapefile converstion tool
+
+### [kepler.gl](https://uber.github.io/kepler.gl/)
+
+Uber’s Open Source Geospatial Toolbox
