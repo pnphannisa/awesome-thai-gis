@@ -6,11 +6,17 @@ Free downloadable resources for doing GIS in Thailand
 
 ## Shapefiles and Raster Datasets
 
+### [NETH's E-Portfolio](https://csuwan.weebly.com/download.html)
+
+Area: Thailand
+
+Layers: Administrative boundaries: Province (Polygon), Amphoe (Polygon), Tambon (Polygon), Village (Polygon); Schools; Roads; Land lots; Satellite imagery
+
 ### [HDX](https://data.humdata.org/dataset/thailand-administrative-boundaries)
 
 Area: Thailand
 
-Layer(s): administrative boundaries (vector)
+Layer(s): administrative boundaries (vector): Province (Polygon), Amphoe (Polygon), Tambon (Line)
 
 Last update: 2017
 
@@ -69,6 +75,12 @@ Area: Thailand
 Layer(s): flood area (kml, shp)
 
 Last update: 2017
+
+### [PCD.GO.TH กรมควบคุมมลพิษ](http://www.pcd.go.th/info_serv/pczs/pczGIS.cfm)
+
+Area: Thailand, some provinces
+
+Layers: Administrative boundaries: Province (Polygon), Amphoe (Polygon), Tambon (Polygon), Village (Polygon); road networks, water quality station; air quality station
 
 ### [Bangkok City Bus Guide (แผนที่รถเมล์ไทย)](https://bazztsu.blogspot.com/p/blog-page.html)
 
