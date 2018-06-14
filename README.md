@@ -136,7 +136,7 @@ Datasets: Census and Survey
 
 Area: Thailand by country, region, province
 
-Last update: 2004
+Last update: 2004, [2018 - registration required](http://www.nso.go.th/sites/2014/Pages/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81.aspx)
 
 ## Tools
 
