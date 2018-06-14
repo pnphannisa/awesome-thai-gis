@@ -60,14 +60,6 @@ Layer(s): rivers, DEM, land cover, precipitation (vector and raster)
 
 Last update: 2000
 
-### [Thailand Open Data](https://data.go.th/Datasets.aspx)
-
-Area: Thailand
-
-Datasets: sociodemographic dataset (csv, xml, json)
-
-Last update: 2017
-
 ### [Thailand Flood Monitoring System](http://flood.gistda.or.th/)
 
 Area: Thailand
@@ -127,6 +119,24 @@ Last update: 2017
 Area: Thailand, other Asian countries
 
 Last update: 2017
+
+## Spreadsheets
+
+### [Thailand Open Data](https://data.go.th/Datasets.aspx)
+
+Datasets: sociodemographic dataset (csv, xml, json)
+
+Area: Thailand
+
+Last update: 2017
+
+### [Thailand's National Statistics Organization](http://service.nso.go.th/nso/nso_center/project/search_center/23project-th.htm)
+
+Datasets: Census and Survey
+
+Area: Thailand by country, region, province
+
+Last update: 2004
 
 ## Tools
 
