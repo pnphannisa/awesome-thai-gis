@@ -130,6 +130,14 @@ Area: Thailand
 
 Last update: 2017
 
+### [Ministry of Public Health](http://203.157.10.8/hcode_2014/p_export.php?p=3)
+
+Datasets: list of hospitals in Thailand (.csv)
+
+Area: Thailand
+
+Last update: 2018
+
 ### [Thailand's National Statistics Organization](http://service.nso.go.th/nso/nso_center/project/search_center/23project-th.htm)
 
 Datasets: Census and Survey
