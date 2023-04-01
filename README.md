@@ -6,7 +6,7 @@ Free downloadable resources for doing GIS in Thailand
 
 ## Shapefiles and Raster Datasets
 
-### [NETH's E-Portfolio](https://csuwan.weebly.com/download.html)
+### [NETH's E-Portfolio](https://csuwan.weebly.com/360436343623360936603650362736213604--download.html)
 
 Area: Thailand
 
