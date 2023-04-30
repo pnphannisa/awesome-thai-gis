@@ -10,7 +10,7 @@ Free downloadable resources for doing GIS in Thailand
 
 Area: Thailand
 
-Layers: Administrative boundaries: Province (Polygon), Amphoe (Polygon), Tambon (Polygon), Village (Polygon); Schools; Roads; Land lots; Satellite imagery
+Layers: 
 
 1. ESRI ShapeFile เขตการเลือกตั้ง
 2. SVG files เขตการเลือกตั้งของแต่ละจังหวัด ซึ่งสามารถ access element ได้โดย g เป็นชื่อจังหวัดและ id เป็นเลขเขตการเลือกตั้ง
