@@ -10,12 +10,17 @@ Free downloadable resources for doing GIS in Thailand
 
 Area: Thailand
 
-Layers: 
+#### Layers: 
 
 1. ESRI ShapeFile เขตการเลือกตั้ง
 2. SVG files เขตการเลือกตั้งของแต่ละจังหวัด ซึ่งสามารถ access element ได้โดย g เป็นชื่อจังหวัดและ id เป็นเลขเขตการเลือกตั้ง
 3. GeoJSON ขอบเขตเทศบาล
 4. GeoJSON ขอบเขตตำบลในประเทศไทยและแขวงในกรุงเทพมหานคร
+
+#### Glossaries:
+
+PAT code: รหัสจังหวัด ตำบล อำเภอตามที่กำหนดโดยกรมการปกครอง มท.
+DLA code: รหัสเทศบาลตามที่กำหนดโดยกรมส่งเสริมการปกครองท้องถิ่น มท.
 
 ### [NETH's E-Portfolio](https://csuwan.weebly.com/360436343623360936603650362736213604--download.html)
 
