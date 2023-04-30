@@ -6,7 +6,23 @@ Free downloadable resources for doing GIS in Thailand
 
 ## Shapefiles and Raster Datasets
 
-### [NETH's E-Portfolio](https://csuwan.weebly.com/download.html)
+### [แผนที่เขตการเลือกตั้งทั่วไป พ.ศ. 2566](https://github.com/KittapatR/Thai-ECT-election-map-66) 
+
+Area: Thailand
+
+#### Layers: 
+
+1. ESRI ShapeFile เขตการเลือกตั้ง
+2. SVG files เขตการเลือกตั้งของแต่ละจังหวัด ซึ่งสามารถ access element ได้โดย g เป็นชื่อจังหวัดและ id เป็นเลขเขตการเลือกตั้ง
+3. GeoJSON ขอบเขตเทศบาล
+4. GeoJSON ขอบเขตตำบลในประเทศไทยและแขวงในกรุงเทพมหานคร
+
+#### Glossaries:
+
+1. PAT code: รหัสจังหวัด ตำบล อำเภอตามที่กำหนดโดยกรมการปกครอง มท.
+2. DLA code: รหัสเทศบาลตามที่กำหนดโดยกรมส่งเสริมการปกครองท้องถิ่น มท.
+
+### [NETH's E-Portfolio](https://csuwan.weebly.com/360436343623360936603650362736213604--download.html)
 
 Area: Thailand
 
