@@ -44,6 +44,11 @@ Free downloadable resources for doing GIS in Thailand
 
 ## Dynamic Map Data
 
+### [National Thai Water - Dam Information](https://nationalthaiwater.onwr.go.th/dam) - Real-time dam monitoring
+- **Organization**: Office of National Water Resources (ONWR)
+- **Data types**: Dam water levels, storage capacity, inflow/outflow data
+- **Coverage**: Thailand
+- **Update frequency**: Real-time
 
 ## Applications
 
