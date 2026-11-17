@@ -120,6 +120,14 @@ Area: Thailand, other Asian countries
 
 Last update: 2017
 
+### [MapScale Thailand Boundaries](https://mapscale.io/en/data/guides/thailand-boundary-downloads)
+
+Area: Thailand
+
+Layer(s): Administrative boundaries: Province (Polygon), Amphoe (Polygon) - simplified GeoJSON and Shapefile (77 provinces, 928 districts), with a SHA-256 manifest
+
+Licence: CC BY 3.0 IGO (source: HDX / UN OCHA COD-AB)
+
 ## Spreadsheets
 
 ### [Thailand Open Data](https://data.go.th/Datasets.aspx)
